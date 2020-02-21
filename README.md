@@ -1,2 +1,2 @@
-# princedecors.github.io
-Marriage /Event Planners
+# PrinceDecors
+Wedding Decoration and Event Planning website
